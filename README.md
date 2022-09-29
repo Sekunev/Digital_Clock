@@ -1,4 +1,4 @@
-# Weather App
+# Digital Clock App
 
 ### Check The Live Website ➡️ [Live Website](https://sekunev.github.io/Weather-app-asyn-await-)
 
