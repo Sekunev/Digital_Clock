@@ -1,4 +1,4 @@
-# Weather App
+# Digital Clock App
 
 ### Check The Live Website ➡️ [Live Website](https://sekunev.github.io/Weather-app-asyn-await-)
 
@@ -9,8 +9,8 @@ Project aims to display current weather data of searched city around the world w
 ### Visualization of the Website
 
 ![image](https://github.com/Sekunev/Weather-app-asyn-await-/blob/main/Weather-App.gif)
-![image](https://user-images.githubusercontent.com/101554737/192788156-879883db-2392-45c4-a336-49bdbbe07af7.png)
-![image](https://user-images.githubusercontent.com/101554737/192788493-2adda058-cc68-4091-9b67-6ead0e2a75fc.png)
+
+![image](https://user-images.githubusercontent.com/101554737/192788493-2adda058-cc68-4091-9b67-6ead0e2)
 
 
 
