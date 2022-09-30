@@ -1,3 +1,48 @@
+@font-face {
+  font-family: digitalClock;
+  src: url("./digital-7.ttf");
+}
 * {
   box-sizing: border-box;
+}
+body {
+  background-color: black;
+}
+.container {
+  margin: 10vh auto;
+  color: yellow;
+  text-align: center;
+  /* width: 50%; */
+  font-size: 8rem;
+}
+
+.time {
+  margin: 2px auto;
+  /* color: red; */
+  font-family: digitalClock;
+  /* font-size: 8rem; */
+  letter-spacing: 3px;
+}
+.date {
+  margin: 2px auto;
+  /* color: yellow; */
+  font-family: digitalClock;
+  /* font-size: 8rem; */
+}
+.day {
+  margin: 2px auto;
+  font-family: digitalClock;
+  /* font-size: 8rem; */
+  animation: changeColor 2s linear infinite;
+}
+@keyframes changeColor {
+  100% {
+    /* filter: hue-rotate(360deg); */
+  }
+}
+@media (max-width: 600px) {
+  .container {
+    color: red;
+    font-size: 3rem;
+  }
 }
