@@ -1,10 +1,10 @@
 # Digital Clock App
 
-### Check The Live Website ➡️ [Live Website](https://sekunev.github.io/Weather-app-asyn-await-)
+### Check The Live Website ➡️ [Live Website](https://sekunev.github.io/Digital_Clock/)
 
 ### Description
 
-Project aims to display current weather data of searched city around the world with fetching Weather Api data.
+The project aims to make a digital clock program.
 
 ### Visualization of the Website
 
@@ -18,10 +18,10 @@ Project aims to display current weather data of searched city around the world w
 
     |----index.html  
         |----style.css   
-        |----app.js
-        |----weatherApp.gif
+        |----dijitalclock.js
+        |----dijital.ttf
         |----readme.md 
 
 ### Used in this project
 
-👉 I mastered HTML, CSS and Javascript (fetch api) features in this project. You can see the visual representation of the website above.
+👉 I mastered HTML, CSS and Javascript (get interval) features in this project. You can see the visual representation of the website above.
