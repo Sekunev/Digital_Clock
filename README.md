@@ -8,9 +8,7 @@ The project aims to make a digital clock program.
 
 ### Visualization of the Website
 
-![image](https://github.com/Sekunev/Weather-app-asyn-await-/blob/main/Weather-App.gif)
-
-![image](https://user-images.githubusercontent.com/101554737/192788493-2adda058-cc68-4091-9b67-6ead0e2)
+![image](https://user-images.githubusercontent.com/101554737/193427508-891e1579-1b60-42d8-893d-199620b88438.png)
 
 
 
