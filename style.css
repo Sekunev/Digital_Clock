@@ -1,12 +1,15 @@
 @font-face {
   font-family: digitalClock;
-  src: url("./digital-7.ttf");
+  src: url("./digital.ttf");
 }
 * {
   box-sizing: border-box;
 }
 body {
-  background-color: black;
+  background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
 }
 .container {
   margin: 10vh auto;
@@ -35,6 +38,17 @@ body {
   /* font-size: 8rem; */
   animation: changeColor 2s linear infinite;
 }
+.wrapperStopwatch {
+  text-align: center;
+  font-size: 2rem;
+  font-family: digitalClock;
+  color: white;
+}
+.wrapperStopwatch button {
+  font-family: "Times New Roman", Times, serif, Helvetica, sans-serif;
+  background-color: black;
+  color: white;
+}
 @keyframes changeColor {
   100% {
     /* filter: hue-rotate(360deg); */
@@ -42,7 +56,7 @@ body {
 }
 @media (max-width: 600px) {
   .container {
-    color: red;
+    color: rgb(129, 214, 18);
     font-size: 3rem;
   }
 }
