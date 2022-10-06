@@ -8,7 +8,7 @@ The project aims to make a digital clock program.
 
 ### Visualization of the Website
 
-![image](https://user-images.githubusercontent.com/101554737/193427508-891e1579-1b60-42d8-893d-199620b88438.png)
+![image](https://user-images.githubusercontent.com/101554737/194276260-a7d5823d-115c-4822-b001-ae5ea5107689.png)
 
 
 
